@@ -292,3 +292,11 @@ section#bottom a {
 section#bottom a:hover {
   text-decoration:underline;
 }
+
+.folddown img {
+  width:auto;
+  margin:0 auto;
+  display:table;
+  height:300px;
+  padding:50px 0 70px 0;
+}
